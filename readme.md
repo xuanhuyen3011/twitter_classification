@@ -1,6 +1,6 @@
 # Twitter Account Classification Project
 
-This project is part of the CSIT946 course, focusing on processing numeric data to classify Twitter accounts. The goal is to distinguish between human and non-human accounts using machine learning techniques. Note that the model is considered as a vanilla approach only, served as a baseline for future development of more complex models.
+This project is part of the CSIT946 course, focusing on processing text data to classify Twitter accounts. The goal is to distinguish between human and non-human accounts using machine learning techniques. Note that the model is considered as a vanilla approach only, served as a baseline for future development of more complex models.
 
 ## Project Overview
 
